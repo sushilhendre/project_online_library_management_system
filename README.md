@@ -16,7 +16,7 @@ The Online Library Management System is a web-based application designed to auto
 
 ## 🚀 Features
 
-### Admin Features
+  ### Admin Features
 - Add, update, and delete books
 - Manage library members
 - Issue and return books
@@ -31,18 +31,21 @@ The Online Library Management System is a web-based application designed to auto
 - Search and filter book records
 - View borrowing history
 
-### User Features
+  ### User Features
 - User registration and login
 - Search books by title, author, or category
 - View available books
 - Borrow and return books
 - View borrowing history
 
-### Artifacts
-- Designed wireframes for all roles
-- To be process flow chart
-- BRD
+--
 
+## 📊 Artifacts
+- High Level requirements
+- BRD
+- To be process flow chart
+- Wireframes for all roles
+  
 
 ## 🗃️ Database Modules
 
