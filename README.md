@@ -38,7 +38,7 @@ The Online Library Management System is a web-based application designed to auto
 - Borrow and return books
 - View borrowing history
 
---
+---
 
 ## 📊 Artifacts
 - High Level requirements
