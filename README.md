@@ -45,6 +45,7 @@ The Online Library Management System is a web-based application designed to auto
 - BRD
 - To be process flow chart
 - Wireframes for all roles
+- User Stories and Acceptance Criteria
   
 ---
 
